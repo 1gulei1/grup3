@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:#104B44;
+}
+
+a {
+    color: white;
+    background-color:red ;
+    text-align:center;
+    text-decoration: none;
+}
+
+main {
+    background-color: #FAFF0B;
+}
+
+img {
+    width: 98px;
+    height: 70px;
+}
+
+footer {
+    background-color: #104b44;
+    border-top:1px solid #104b44;
+    border-bottom:1px solid #104b44 ;
+    border-width:5px solid #104b44;
+    border-right:5px solid #104b44 ;
+}
+
+footer p {
+    background-color:white;
+}
